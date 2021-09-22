@@ -1,34 +1,30 @@
-  _Olá_, _meu_ _nome_ _é_ _Nikolly_  _Amancio_ ♥👋
+## Oiii! Eu sou a Nick Amancio!
+ <div>
+  <a href="https://github.com/AmancioNi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmancioNi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmancioNi&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
 
-_Sou_  _estudante_  _de_  _gestão_  _da_  _tecnologia_ _da_ _informação_ , _nas_ _horas_ _vagas_ _estudo_ _desenvolvimento_ _web_ _que_  _é_ _a_ _área_ _que_ _eu_ _pretendo_ _me_ _especializar_. _Sou_ _apaixonada_ _por_ _tecnologia_, _e_ _gosto_ _de_ _coisas_ _que_ _me_ _desafia_ _que_  _me_ _faz_ _sair_ _da_ _minha_  _zona_  _de_ _conforto_. 
+## Meus conhecimentos:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Nick-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
+	------------------------------------------------------------------------------------------------------------------------------------------------------
+<div> 
+  <a href="https://instagram.com/nih_hapuquee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/Nick_A#1182" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:nikollyamancio2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nikolly-amancio-871a30145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ 
+	
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**AmancioNi/AmancioNi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m Assistant of IT
+- 🌱 I study full stack web development
+- 👯 I like to work in a team
+	
